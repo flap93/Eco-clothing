@@ -24,3 +24,12 @@ CRUD
 5. Create header, main and footer
 6. style html, body
 7. style grid-container, header, main and footer
+
+# 3. CREATE STATIC HOME SCREEN
+
+1. create ul products
+2. create li
+3. create div prodcut
+4. add product image , product name , product bran , product price
+5. style ul products and internal divs
+6. duplicate 2 times to show products
